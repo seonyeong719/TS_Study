@@ -36,5 +36,6 @@
   console.log(maker2);
 
   const maker3 = CoffeeMaker.makeMachine(3);
+  console.log(maker3);
   // => 17번째 줄의 함수를 static으로 만들어 주면 이렇게 작성해도 된다.
 }
